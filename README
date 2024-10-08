@@ -1,0 +1,6 @@
+This is a simple go api that returns a random number each time
+it is called.
+
+Run commands:
+go mod init random-api
+go run main.go
